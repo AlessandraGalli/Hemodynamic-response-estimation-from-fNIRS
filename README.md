@@ -7,3 +7,8 @@ We propose a dictionary-based algorithm to process every single event-related se
 For each segment, after the removal of the physiological noise component in each channel, a template is employed to estimate stimulus-evoked responses in both channels. Then, the estimate from the short-separation channel is employed to correct for the evoked superficial response and refine the hemodynamic response estimate from the long-separation channel.
 
 To execute the code run "main.m". 
+
+If you use the code, please, cite: 
+
+A. Galli, S. Brigadoi, G. Giorgi, G. Sparacino, C. Narduzzi "Accurate Hemodynamic Response Estimation by Removal of Stimulus-Evoked Superficial Response in fNIRS Signals."
+Journal of Neural Engineering
